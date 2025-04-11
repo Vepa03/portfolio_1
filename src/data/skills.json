@@ -1,51 +1,51 @@
 [
     {
         "title" : "HTML",
-        "ImageSrc": "/assets/Experience/html.png",
+        "ImageSrc": "/public/html.png",
         "width": "60",
         "height": "60"
 
     },
     {
         "title" : "CSS",
-        "ImageSrc": "/assets/Experience/css.png",
+        "ImageSrc": "/public/css.png",
         "width": "60",
         "height": "60"
     },
     {
         "title" : "React",
-        "ImageSrc": "/assets/Experience/react.png",
+        "ImageSrc": "/public/react.png",
         "width": "60",
         "height": "60"
     },
     {
         "title" : "Flutter",
-        "ImageSrc": "/assets/Experience/flutter.png",
+        "ImageSrc": "/public/flutter.png",
         "width": "60",
         "height": "60"
     },
     {
         "title" : "Dart",
-        "ImageSrc": "/assets/Experience/dart.png",
+        "ImageSrc": "/public/dart.png",
         "width": "60",
         "height": "60"
     },
     {
         "title" : "Python",
-        "ImageSrc": "/assets/Experience/python.png",
+        "ImageSrc": "/public/python.png",
         "width": "60",
         "height": "60"
     },
     {
         "title" : "Java Script",
-        "ImageSrc": "/assets/Experience/js.png",
+        "ImageSrc": "/public/js.png",
         "width": "60",
         "height": "60"
     },
 
     {
         "title" : "Figma",
-        "ImageSrc": "/assets/Experience/figma.png",
+        "ImageSrc": "/public/figma.png",
         "width": "60",
         "height": "60"
     }

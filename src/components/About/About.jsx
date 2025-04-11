@@ -5,13 +5,13 @@ export const About = () => {
     <section className={styles.container} id='about'>
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
-            <img src='/assets/About/programmer.png' 
+            <img src='/public/programmer.png' 
             alt='Me sitting with laptop'
             className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
             <li className={styles.aboutItem}>
-                <img src='/assets/About/cursor.png'
+                <img src='/public/cursor.png'
                 alt='this is cursor img' className={styles.images}/>
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
@@ -21,7 +21,7 @@ export const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src='/assets/About/webpage.png'
+                <img src='/public/webpage.png'
                 alt='this is webpage img' className={styles.images}/>
                 <div lassName={styles.aboutItemText}>
                     <h3>Web Developer</h3>
@@ -31,7 +31,7 @@ export const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src='/assets/About/android.png'
+                <img src='/public/android.png'
                 alt='this is android img' className={styles.images}/>
                 <div lassName={styles.aboutItemText}>
                     <h3>App Developer</h3>

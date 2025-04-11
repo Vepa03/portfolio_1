@@ -5,7 +5,7 @@
         "startDate":"Aug, 2023",
         "endDate": "Aug, 2024",
         "experience": ["Handled front-desk responsibilities", "Gained experience in communication, time management"],
-        "imageSrc": "/assets/Experience/logo.png"
+        "imageSrc": "/public/logo.png"
 
     }
 ]
