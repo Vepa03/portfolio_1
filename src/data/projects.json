@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Computer Basics",
+        "ImageSrc": "/assets/Projects/computer_basics.png",
+        "description":"This Application is about for understanding the fundamentals of computer hardware and software.",
+        "skills": [ "Java"],
+        "source" : "https://github.com/Vepa03/computer-basics",
+        "demo":"https://github.com/Vepa03/computer-basics/releases/download/v1.0/app-release.apk"
+        
+    }
+]
