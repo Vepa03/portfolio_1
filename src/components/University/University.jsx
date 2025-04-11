@@ -19,7 +19,7 @@ export const University = () => {
                 </li>
             
                 <li className={styles.aboutItem}>
-                    <img src='/public/logo_university.svg'
+                    <img src='/logo_university.svg'
                     alt='this is android img' className={styles.images}/>
                     <div lassName={styles.aboutItemText}>
                         <h3>Bachelor</h3>
