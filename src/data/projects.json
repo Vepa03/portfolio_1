@@ -7,5 +7,14 @@
         "source" : "https://github.com/Vepa03/computer-basics",
         "demo":"https://github.com/Vepa03/computer-basics/releases/download/v1.0/app-release.apk"
         
+    },
+    {
+        "title": "Türkmen Tagamlary",
+        "ImageSrc": "/resept.png",
+        "description":"This Application is about for Turkmen traditional foods. Explore the rich and flavorful world of traditional Turkmen cuisine!",
+        "skills": [ "Dart", "Flutter"],
+        "source" : "https://github.com/Vepa03/Turkmen-Food",
+        "demo":"https://github.com/Vepa03/Turkmen-Food/releases/download/v1.0/app-release.apk"
+        
     }
 ]
