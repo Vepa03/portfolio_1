@@ -10,7 +10,7 @@ export const University = () => {
                 <li className={styles.aboutItem}>
                     <div className={styles.aboutItemText}>
                         <h3>HighSchool</h3>
-                        <h4>Sep, 2010 - Sep, 2021</h4>
+                        <h4>Sep, 2018 - Sep, 2021</h4>
                         <p>
                             Completed my high school education with a strong interest in technology and design. During this time, 
                             I began exploring frontend development, gaining early experience in building responsive web paages and user interfaces using HTML, CSS, and JavaScript
