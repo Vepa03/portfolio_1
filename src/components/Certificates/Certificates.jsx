@@ -14,7 +14,12 @@ export const Certificates = () => {
                         className={styles.image}/>
                         <h3 className={styles.title}>{certificate.title}</h3>
                         <p className={styles.description}>{certificate.description}</p>
+
+                        <div className={styles.links}>
+                            <a href={certificate.download} className={styles.link} download>Download</a>
+                        </div>
                     </div>
+                    
                 );
             })}
         </div>

@@ -2,6 +2,7 @@
     {
         "image":"/dart_certificate.jpg",
         "title":"Dart Certificate",
-        "description":"I have successfully completed the Dart and Flutter 3 Bootcamp: Build Apps for Any Screen! course on Udemy. "
+        "description":"I have successfully completed the Dart and Flutter 3 Bootcamp: Build Apps for Any Screen! course on Udemy. ",
+        "download": "/dart_certificate.jpg"
     }
 ]
