@@ -1,18 +1,18 @@
 [
     {
-        "title": "Computer Basics",
-        "ImageSrc": "/computer_basics.png",
-        "description":"This Application is about for understanding the fundamentals of computer hardware and software.",
-        "skills": [ "Java"],
+        "title": "Delivery App",
+        "ImageSrc": "/delivery.png",
+        "description":"Developed a mobile delivery application with real-time order tracking and user-friendly interface using Java and Kotlin.",
+        "skills": [ "Java", "Kotlin", "Django"],
         "source" : "https://github.com/Vepa03/computer-basics",
         "demo":"https://github.com/Vepa03/computer-basics/releases/download/v1.0/app-release.apk"
         
     },
     {
-        "title": "Türkmen Tagamlary",
-        "ImageSrc": "/resept.png",
-        "description":"This Application is about for Turkmen traditional foods. Explore the rich and flavorful world of traditional Turkmen cuisine!",
-        "skills": [ "Dart", "Flutter"],
+        "title": "Online Course Center",
+        "ImageSrc": "/course.png",
+        "description":"Developed an online course center app using Flutter and Firebase, featuring user registration, course listings, and real-time content updates.",
+        "skills": [ "Dart", "Flutter", "Firebase"],
         "source" : "https://github.com/Vepa03/Turkmen-Food",
         "demo":"https://github.com/Vepa03/Turkmen-Food/releases/download/v1.0/app-release.apk"
         
