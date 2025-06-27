@@ -5,10 +5,11 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I'm Vepa</h1>
+            <h1 className={styles.title}>Hi, I'm Jack</h1>
             <p className={styles.description}>
-            Passionate Web & Android App Developer with experience in building responsive websites and mobile applications using React, Flutter, and Firebase. 
-            Skilled in frontend development, UI/UX design, and integrating APIs
+            I’m a web developer focused on building modern and user-friendly web applications. 
+            I create strong frontend experiences using technologies like HTML, CSS, JavaScript, and React, while also developing effective backend solutions with tools like Node.js and Django. 
+            Beyond writing code, I prioritize user experience and performance in every project. 
             </p>
             <a href='mailto:vepababayev03@gmail.com' className={styles.contactBtn}>Contact Me</a>
         </div>

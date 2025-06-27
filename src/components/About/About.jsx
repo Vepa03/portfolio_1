@@ -31,12 +31,12 @@ export const About = () => {
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src='/android.png'
+                <img src='/backend.png'
                 alt='this is android img' className={styles.images}/>
                 <div lassName={styles.aboutItemText}>
-                    <h3>App Developer</h3>
+                    <h3>Backend Developer</h3>
                     <p>
-                        I'm a App developer with experience in building responsive android applications 
+                        I'm a backend developer with experience in building scalable and secure server-side applications.
                     </p>
                 </div>
             </li>

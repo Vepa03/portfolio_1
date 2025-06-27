@@ -1,11 +1,20 @@
 [
     {
-        "role":"Reception",
-        "organisation":"Altyn Gorech Education Center",
+        "role":"Backend Developer",
+        "organisation":"Emerson",
+        "startDate":"Aug, 2021",
+        "endDate": "Aug, 2023",
+        "experience": ["Worked as a Backend Developer at Emerson, building scalable APIs and backend services using Node.js and PostgreSQL."],
+        "imageSrc": "/emerson.png"
+
+    },
+    {
+        "role":"Fullstack Developer",
+        "organisation":"ExxonMobil",
         "startDate":"Aug, 2023",
-        "endDate": "Aug, 2024",
-        "experience": ["Handled front-desk responsibilities", "Gained experience in communication, time management"],
-        "imageSrc": "/logo.png"
+        "endDate": "Aug, 2025",
+        "experience": ["Worked as a Fullstack Developer at ExxonMobil, developing and maintaining web applications using React and Node.js"],
+        "imageSrc": "/exxon.png"
 
     }
 ]
